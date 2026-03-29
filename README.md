@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-your_email_here-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email_here)
+[![Email](https://img.shields.io/badge/Email-your_email_here-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: sallalzahid51@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SallalZahid56)
 [![Profile Views](https://komarev.com/ghpvc/?username=SallalZahid56&style=for-the-badge&color=blueviolet)](https://github.com/SallalZahid56)
 
