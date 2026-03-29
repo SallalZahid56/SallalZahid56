@@ -38,15 +38,7 @@ const sallal = {
 };
 
 
-
-
-
-
-
-
-
-
-
+```
 🎯 Quick Facts
 🚀 Learning and building projects consistently
 💡 Interested in Web Development & Cloud
