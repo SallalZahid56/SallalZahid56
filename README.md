@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 **About Me**
+## 👨‍💻 About Me
 
 I am a passionate **Full Stack Developer** who enjoys building modern web applications and learning new technologies.  
 I love solving problems, writing clean code, and turning ideas into real-world projects.
@@ -36,7 +36,6 @@ const sallal = {
   tools: ["Git", "GitHub", "Figma"],
   currentFocus: "Improving full-stack development skills"
 };
-```md
 
 
 🎯 Quick Facts
