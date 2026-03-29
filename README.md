@@ -36,6 +36,17 @@ const sallal = {
   tools: ["Git", "GitHub", "Figma"],
   currentFocus: "Improving full-stack development skills"
 };
+
+
+
+
+
+
+
+
+
+
+
 🎯 Quick Facts
 🚀 Learning and building projects consistently
 💡 Interested in Web Development & Cloud
