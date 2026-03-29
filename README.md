@@ -29,14 +29,16 @@ I love solving problems, writing clean code, and turning ideas into real-world p
 const sallal = {
   code: ["JavaScript", "Python", "C++"],
   technologies: {
-    frontEnd: ["HTML", "CSS", "React"],
-    backEnd: ["Node.js", "Express", "Flask"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    frontEnd: ["HTML", "CSS", "React", "Vite", "Next.js", "Redux"],
+    backEnd: ["Node.js", "Express", "Flask", "Python"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Supabase"],
   },
-  tools: ["Git", "GitHub", "Figma"],
-  currentFocus: "Improving full-stack development skills"
+  tools: ["VSCode", "Cursor", "Figma", "Antigravity"],
+  additionalTools: ["Slack", "Jira"],
+  versionControl: ["Git", "GitHub"],
+  currentFocus: "Improving full-stack development skills",
+  currentlyLearning: ["Docker", "AWS"]
 };
-
 
 ```
 🎯 Quick Facts
