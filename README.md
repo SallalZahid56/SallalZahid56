@@ -67,8 +67,26 @@ const sallal = {
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 🌐 Currently Learning
 <p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </p>
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SallalZahid56&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SallalZahid56&theme=radical" alt="GitHub Streak" /> </p>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SallalZahid56&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" 
+    alt="GitHub Stats" 
+  />
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=SallalZahid56&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SallalZahid56&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+  />
+</p>
 
 
 
