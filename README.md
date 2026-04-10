@@ -68,7 +68,7 @@ const sallal = {
 🌐 Currently Learning
 <p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </p>
 📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SallalZahid56&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=SallalZahid56&show_icons=true&theme=radical" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SallalZahid56&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SallalZahid56&theme=radical" alt="GitHub Streak" /> </p>
 
 
 
